@@ -1,0 +1,29 @@
+[
+  {
+    "name": "特别周",
+    "height": "158cm",
+    "weight": "无增减",
+    "measurements": "B81/W56/H81",
+    "birthday": "5月2日",
+    "voiceActor": "和气杏未",
+    "description": "来自北海道，梦想成为日本第一赛马娘。性格开朗，食量惊人。"
+  },
+  {
+    "name": "无声铃鹿",
+    "height": "161cm",
+    "weight": "无增减",
+    "measurements": "B77/W55/H80",
+    "birthday": "5月1日",
+    "voiceActor": "高野麻里佳",
+    "description": "拥有超群的速度，沉默寡言，但对比赛充满热情。"
+  },
+  {
+    "name": "东海帝王",
+    "height": "150cm",
+    "weight": "无增减",
+    "measurements": "B78/W55/H80",
+    "birthday": "4月20日",
+    "voiceActor": "Machico",
+    "description": "自信满满，目标是成为三冠赛马娘，充满活力和斗志。"
+  }
+]
